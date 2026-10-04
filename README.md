@@ -34,6 +34,7 @@ ASCII-Art-Web-Stylize is a web-based implementation of the ASCII-Art project. It
 
     ```
     http://localhost:8080
+    - live link https://ascii-art-web-5vn1.onrender.com/ascii-art
     ```
 
 #### Option 2: Using Docker
